@@ -1,12 +1,10 @@
-# IMDB_Movie_analysis
-
+#IMDB Movie Data Analysis
 This project involves a comprehensive analysis of an IMDB movie dataset to uncover trends and insights. The dataset includes details such as movie titles, genres, ratings, and revenue.
 
 Key Steps and Findings:
 Data Cleaning:
 
 Handled missing values in the Revenue (Millions) and Metascore columns by dropping rows with null values.
-
 Checked for duplicates and ensured data integrity.
 Exploratory Data Analysis:
 
