@@ -1,4 +1,5 @@
 #IMDB Movie Data Analysis
+
 This project involves a comprehensive analysis of an IMDB movie dataset to uncover trends and insights. The dataset includes details such as movie titles, genres, ratings, and revenue.
 
 Key Steps and Findings:
